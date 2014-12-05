@@ -10,3 +10,5 @@ adid,<JSON of ad>\n
 Errors go to stderr.
 
 node index.js ad-id-file.txt [concurrency]
+
+Run 'npm install' before running it. 
